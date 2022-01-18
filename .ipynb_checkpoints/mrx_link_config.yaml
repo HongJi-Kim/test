@@ -1,0 +1,23 @@
+base_image: python:3.8
+requirements:
+- aiobotocore
+- boto3
+- botocore
+- cloudpickle
+- cryptography
+- dill
+- fsspec
+- kfp
+- livelossplot
+- numpy
+- pandas
+- PyMySQL
+- pytorch-lightning
+- PyYAML
+- s3fs
+- scikit-learn
+- SQLAlchemy
+- torch
+- torchaudio
+- torchmetrics
+- torchvision
