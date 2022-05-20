@@ -1,0 +1,4 @@
+[2022-03-14 14:29:11] mrx-link.MRXLinkWebSocketHandler.open() DEBUG: WebSocket opened
+[2022-03-14 14:29:11] mrx-link.MRXLinkWebSocketHandler.kernel_id() DEBUG: kernel_id was set to 83f161c4-482e-4c40-80c1-320d3a7efd4f
+[2022-03-14 14:29:11] mrx-link.MRXLinkWebSocketHandler.on_message() DEBUG: kernel:info proccessed.
+[2022-03-14 14:29:16] mrx-link.MRXLinkWebSocketHandler.open() DEBUG: WebSocket opened
