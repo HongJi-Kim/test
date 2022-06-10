@@ -1,0 +1,7 @@
+[2022-06-02 14:29:18] mrx-link.MRXLinkWebSocketHandler.open() DEBUG: WebSocket opened
+[2022-06-02 14:29:30] mrx-link.MRXLinkWebSocketHandler.kernel_id() DEBUG: kernel_id was set to 823802d6-3323-40d5-aed0-6ddacdb995e2
+[2022-06-02 14:29:30] mrx-link.MRXLinkWebSocketHandler.on_message() DEBUG: kernel:info proccessed.
+[2022-06-02 14:29:59] mrx-link.MRXLinkWebSocketHandler.on_close() DEBUG: WebSocket on kernel id 823802d6-3323-40d5-aed0-6ddacdb995e2 closed
+[2022-06-02 14:30:00] mrx-link.MRXLinkWebSocketHandler.open() DEBUG: WebSocket opened
+[2022-06-02 15:15:24] mrx-link.MRXLinkWebSocketHandler.on_close() DEBUG: WebSocket on kernel id  closed
+[2022-06-02 15:15:26] mrx-link.MRXLinkWebSocketHandler.open() DEBUG: WebSocket opened

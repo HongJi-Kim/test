@@ -1,0 +1,7 @@
+[2022-05-23 20:12:15] mrx-link.MRXLinkWebSocketHandler._accept_connection() DEBUG: WebSocket opened
+[2022-05-23 20:12:18] mrx-link.MRXLinkWebSocketHandler._run_callback() DEBUG: kernel_id was set to a294b69c-e5be-4974-83ac-86436cb0b7d5
+[2022-05-23 20:12:18] mrx-link.MRXLinkWebSocketHandler._run_callback() DEBUG: kernel:info proccessed.
+[2022-05-23 20:12:19] mrx-link.MRXLinkWebSocketHandler._run_callback() DEBUG: kernel_id was set to a294b69c-e5be-4974-83ac-86436cb0b7d5
+[2022-05-23 20:12:19] mrx-link.MRXLinkWebSocketHandler._run_callback() DEBUG: kernel:info proccessed.
+[2022-05-23 20:12:34] mrx-link.MRXLinkWebSocketHandler._run_callback() DEBUG: kernel_id was set to a294b69c-e5be-4974-83ac-86436cb0b7d5
+[2022-05-23 20:12:34] mrx-link.MRXLinkWebSocketHandler._run_callback() DEBUG: kernel:info proccessed.
