@@ -1,0 +1,8 @@
+[2022-06-09 16:26:31] mrx-link.MRXLinkWebSocketHandler.open() DEBUG: WebSocket opened
+[2022-06-09 16:55:47] mrx-link.MRXLinkWebSocketHandler.on_close() DEBUG: WebSocket on kernel id  closed
+[2022-06-09 16:55:48] mrx-link.MRXLinkWebSocketHandler.open() DEBUG: WebSocket opened
+[2022-06-09 17:58:56] mrx-link.MRXLinkWebSocketHandler.on_close() DEBUG: WebSocket on kernel id  closed
+[2022-06-09 17:58:58] mrx-link.MRXLinkWebSocketHandler.open() DEBUG: WebSocket opened
+[2022-06-09 18:14:03] mrx-link.MRXLinkWebSocketHandler.on_close() DEBUG: WebSocket on kernel id  closed
+[2022-06-09 18:14:05] mrx-link.MRXLinkWebSocketHandler.open() DEBUG: WebSocket opened
+[2022-06-10 09:32:53] mrx-link.MRXLinkWebSocketHandler.on_close() DEBUG: WebSocket on kernel id  closed
